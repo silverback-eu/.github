@@ -18,7 +18,7 @@ We are proud of the contributions made by SilverBack Group and eagerly anticipat
 
 ## 🤝 Contact us
 
-To learn more about how SilverBack Group can help you achieve your sustainability goals, please contact us at [email protected]
+To learn more about how SilverBack Group can help you achieve your sustainability goals, please contact us at [work@silverback.ie](mailto:work@silverback.ie?subject=Request%20via%20Website%20&body=Hey%20Team%20SilverBack%2C%0A%0AI%2FWe%20want%20to%20work%20with%20you.%0A%0AWe're%2FI'm...%0A%0ARegards%2C)
 
 ## Additional information
 
