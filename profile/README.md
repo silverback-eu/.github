@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![Banner](https://silverback-eu.github.io/.github/profile/Banner.png)
 
 ## 🌎 About SilverBack Group
 
@@ -31,7 +31,7 @@ To learn more about how SilverBack Group can help you achieve your sustainabilit
 ### Call to action
 
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@silverback.ie?subject=Request%20via%20Website%20&body=Hey%20Team%20SilverBack%2C%0A%0AI%2FWe%20want%20to%20work%20with%20you.%0A%0AWe're%2FI'm...%0A%0ARegards%2C)
-* [![SilverBack](./SilverBackIcon.svg)](https://silverback.ie/)
+* [![SilverBack](https://silverback-eu.github.io/.github/profile/SilverBackIcon.svg)](https://silverback.ie/)
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/silverback-staffing/)
 
 ## 🌎 Global impact
